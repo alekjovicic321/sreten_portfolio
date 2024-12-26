@@ -529,6 +529,15 @@ header .navbar ul li a:hover {
     width: 100%;
   }
 }
+.contact {
+  display: grid;
+  place-items: center;
+}
+
+.contact .container {
+  width: 100%;
+  max-width: [your-desired-width];
+}
 /* skills media queries ends*/
 /* skills section ends */
 
